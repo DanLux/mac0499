@@ -127,6 +127,14 @@ header {
   -moz-border-radius: 44px;
   border-radius: 44px;
 }
+
+
+.propostaParagraph {
+  text-indent: 50px;
+  width: 70%;
+  text-align: justify;
+}
+
 .nav-collapse_ .nav > li > a .sf-sub-indicator {
   position: absolute;
   width: 9px;

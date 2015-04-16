@@ -134,6 +134,9 @@ header {
   width: 70%;
   text-align: justify;
 }
+.cronogramaList {
+  text-indent: 30px;
+}
 
 .nav-collapse_ .nav > li > a .sf-sub-indicator {
   position: absolute;

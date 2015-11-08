@@ -95,7 +95,9 @@ header {
   -moz-box-shadow: none;
   box-shadow: none;
   background: none;
-  margin-left: 22px;
+  margin-left: 30px;
+  margin-top: 40px;
+
 }
 .nav-collapse_ .nav li a {
   text-shadow: none;
@@ -144,7 +146,7 @@ header {
   height: 6px;
   background: url(../img/indicator1.png) no-repeat 0 0;
   left: 50%;
-  bottom: 21px;
+  bottom: 10px;
   margin-left: -5px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -174,8 +176,8 @@ header {
 .nav-collapse_ .nav ul {
   position: absolute;
   display: none;
-  width: 120px;
-  left: -18px;
+  width: 140px;
+  left: -25px;
   top: 115px;
   list-style: none;
   zoom: 1;

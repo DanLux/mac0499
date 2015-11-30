@@ -136,8 +136,13 @@ header {
   width: 70%;
   text-align: justify;
 }
+
 .cronogramaList {
-  text-indent: 30px;
+  text-indent: 80px;
+}
+
+.cronogramaListIndent {
+  text-indent: 50px;
 }
 
 .nav-collapse_ .nav > li > a .sf-sub-indicator {
